@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Alpha-Placement-Course-Assignments.iml" filepath="$PROJECT_DIR$/.idea/Alpha-Placement-Course-Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional_Statement/Conditional_Statement.iml" filepath="$PROJECT_DIR$/Conditional_Statement/Conditional_Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variable And Data Strucutre/Variable And Data Strucutre.iml" filepath="$PROJECT_DIR$/Variable And Data Strucutre/Variable And Data Strucutre.iml" />
     </modules>
   </component>
